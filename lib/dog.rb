@@ -1,11 +1,11 @@
 class Dog 
   
   def #bark
-    puts "Woof!"
+    "Woof!"
   end 
   
   def #sit 
-    puts "The dog is sitting"
+    "The dog is sitting"
   end 
   
 end
