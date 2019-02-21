@@ -1,11 +1,11 @@
 class Dog 
   
   def bark
-    return "Woof!"
+    "Woof!"
   end 
   
   def sit 
-    return "The dog is sitting"
+    "The dog is sitting"
   end 
   
 end
