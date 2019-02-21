@@ -1,10 +1,10 @@
 class Person
   
-  def talk
-    puts "The Person is walking"
+  def #talk
+    puts "The Person is talking"
   end 
   
-  def walk 
+  def #walk 
     puts "The person is walking"
     
 end 
